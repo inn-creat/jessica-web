@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+.jessica{
+    background-color: rgba(169, 169, 169, 0.185);
+    margin: 25%;
+    text-align: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+#photo{
+    border-radius: 200px;
+}
+.jessica h2{
+    color: white;
+    text-transform: capitalize;
+    font-size:medium;
+}
+.jessica h3{
+    color: yellow;
+}
+.jessica p{
+    color: white;
+}
+#bnt1{
+    background-color: rgba(169, 169, 169, 0.416);
+    color: white;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    width: 50%;
+    border-radius: 10px;
+    cursor: pointer;
+    clear: both;
+    align-content: space-between;
+}
+#bnt2{
+    background-color: rgba(169, 169, 169, 0.416);
+    color: white;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    width: 50%;
+    border-radius: 10px;
+    cursor: pointer;
+    clear: both;
+    align-content: space-between;
+}
+#bnt3{
+    background-color: rgba(169, 169, 169, 0.416);
+    color: white;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    width: 50%;
+    border-radius: 10px;
+    cursor: pointer;
+    clear: both;
+    align-content: space-between;
+}
+#bnt4{
+    background-color: rgba(169, 169, 169, 0.416);
+    color: white;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    width: 50%;
+    border-radius: 10px;
+    cursor: pointer;
+    clear: both;
+    align-content: space-between;
+}
+#bnt5{
+    background-color: rgba(169, 169, 169, 0.416);
+    color: white;
+    text-transform: capitalize;
+    padding: 10px 10px;
+    width: 50%;
+    border-radius: 10px;
+    cursor: pointer;
+    clear: both;
+    align-content: space-between;
+}
+#bnt1:hover{
+   background-color: yellow;
+}
+#bnt2:hover{
+    background-color: yellow;
+ }
+ #bnt3:hover{
+    background-color: yellow;
+ }
+ #bnt4:hover{
+    background-color: yellow;
+ }
+ #bnt5:hover{
+    background-color: yellow;
+ }
